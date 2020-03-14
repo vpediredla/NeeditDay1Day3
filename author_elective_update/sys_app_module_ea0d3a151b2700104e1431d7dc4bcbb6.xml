@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Historic NeedIt Data</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_458782_needit_historic_needit_data</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 21:36:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ea0d3a151b2700104e1431d7dc4bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Historic NeedIt Data</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needit" source="x_458782_needit">594a06151b6300104e1431d7dc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">594a06151b6300104e1431d7dc4bcb50</sys_scope>
+        <sys_update_name>sys_app_module_ea0d3a151b2700104e1431d7dc4bcbb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 21:36:32</sys_updated_on>
+        <timeline_page/>
+        <title>Historic NeedIt Data</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Needit">594a06151b6300104e1431d7dc4bcb50</application>
+        <file_path/>
+        <instance_id>af9abb65db8b17c04c1ff70fbf961912</instance_id>
+        <instance_name>dev63339</instance_name>
+        <name>sys_app_module_ea0d3a151b2700104e1431d7dc4bcbb6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Historic NeedIt Data</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_458782_needit_historic_needit_data</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-13 21:36:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ea0d3a151b2700104e1431d7dc4bcbb6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Historic NeedIt Data</sys_name><sys_overrides/><sys_package display_value="Needit" source="x_458782_needit">594a06151b6300104e1431d7dc4bcb50</sys_package><sys_policy/><sys_scope display_value="Needit">594a06151b6300104e1431d7dc4bcb50</sys_scope><sys_update_name>sys_app_module_ea0d3a151b2700104e1431d7dc4bcbb6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-13 21:36:32</sys_updated_on><timeline_page/><title>Historic NeedIt Data</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1954812264</payload_hash>
+        <record_name>Historic NeedIt Data</record_name>
+        <reverted_from/>
+        <source>5d4a06151b6300104e1431d7dc4bcb52</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 21:36:32</sys_created_on>
+        <sys_id>660d3a151b2700104e1431d7dc4bcbb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170d5d3cce10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 21:36:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ae0d3a15c42700100550087ba17cbfb7</update_guid>
+        <update_guid_history>ae0d3a15c42700100550087ba17cbfb7:-1954812264</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Historic NeedIt Data">faadff5d1be700104e1431d7dc4bcb3f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-14 02:18:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>34c08a8266dc4e5cb6afaf892bb8b890</sys_id>
+        <sys_metadata>ea0d3a151b2700104e1431d7dc4bcbb6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Historic NeedIt Data</sys_name>
+        <sys_package display_value="Needit" source="x_458782_needit">594a06151b6300104e1431d7dc4bcb50</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Needit">594a06151b6300104e1431d7dc4bcb50</sys_scope>
+        <sys_scope_delete display_value="">30eeeec7c0104c06b5aa9250d9f48504</sys_scope_delete>
+        <sys_update_name>sys_app_module_ea0d3a151b2700104e1431d7dc4bcbb6</sys_update_name>
+        <sys_update_version display_value="sys_app_module_ea0d3a151b2700104e1431d7dc4bcbb6">660d3a151b2700104e1431d7dc4bcbb8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-14 02:18:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

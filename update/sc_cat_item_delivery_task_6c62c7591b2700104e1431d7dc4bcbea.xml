@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_delivery_task">
+    <sc_cat_item_delivery_task action="INSERT_OR_UPDATE">
+        <assigned_to/>
+        <condition/>
+        <condition_script/>
+        <delivery_plan/>
+        <delivery_time/>
+        <generation_script/>
+        <group/>
+        <instructions/>
+        <name>Imported record 5</name>
+        <order>100</order>
+        <short_description/>
+        <sla/>
+        <sys_class_name>sc_cat_item_delivery_task</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 21:59:54</sys_created_on>
+        <sys_id>6c62c7591b2700104e1431d7dc4bcbea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imported record 5</sys_name>
+        <sys_package display_value="Needit" source="x_458782_needit">594a06151b6300104e1431d7dc4bcb50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">594a06151b6300104e1431d7dc4bcb50</sys_scope>
+        <sys_update_name>sc_cat_item_delivery_task_6c62c7591b2700104e1431d7dc4bcbea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 21:59:54</sys_updated_on>
+        <work_notes/>
+    </sc_cat_item_delivery_task>
+</record_update>
